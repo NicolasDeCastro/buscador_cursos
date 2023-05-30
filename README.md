@@ -1,0 +1,1 @@
+# documentação do componente, eles faz buscas no site alura, usando outras 2 dependencias, guzzle e crawler
